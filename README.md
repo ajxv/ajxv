@@ -5,8 +5,18 @@
 </p>
 
 <p align="center">
-  <a href="#">
+  <picture>
     <img src="https://github-readme-stats.vercel.app/api?username=gandalf-the-lonesome&show_icons=true&theme=holi&hide_title=true" />
+  </picture>
+  
+  <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gandalf-the-lonesome&layout=compact&theme=holi" />
   </a>
+</p>
+
+<h3 align="center">Languages & Tools</h3>
+<p align="center">
+  <picture>
+    <img src="https://skillicons.dev/icons?i=python,django,flask,html,js,bootstrap&theme=dark" width='250'/>
+  </picture>
 </p>
