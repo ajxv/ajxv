@@ -5,8 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/gandalf-the-lonesome">
+  <picture>
     <img src="https://github-readme-stats.vercel.app/api?username=gandalf-the-lonesome&show_icons=true&theme=holi&hide_title=true" />
+  </picture>
+  <a href="https://github.com/gandalf-the-lonesome">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gandalf-the-lonesome&layout=compact&theme=holi" />
   </a>
 </p>
