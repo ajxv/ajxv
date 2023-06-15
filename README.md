@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=9AC5F4&height=100&section=header&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" />
-  </a>
+  <picture>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=9AC5F4&height=110&section=header&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" />
+  </picture>
 </p>
 
 <p align="center">
