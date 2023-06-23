@@ -6,10 +6,10 @@
 
 <p align="center">
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api?username=gandalf-the-lonesome&show_icons=true&theme=holi&hide_title=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ajxv&show_icons=true&theme=holi&hide_title=true" />
   </picture>
-  <a href="https://github.com/gandalf-the-lonesome">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gandalf-the-lonesome&layout=compact&theme=holi" />
+  <a href="https://github.com/ajxv">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajxv&layout=compact&theme=holi" />
   </a>
 </p>
 
