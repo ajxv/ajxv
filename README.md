@@ -5,9 +5,6 @@
 </p>
 
 <p align="center">
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api?username=ajxv&show_icons=true&theme=holi&hide_title=true" />
-  </picture>
   <a href="https://github.com/ajxv">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajxv&layout=compact&theme=holi" />
   </a>
