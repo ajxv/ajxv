@@ -13,6 +13,6 @@
 <h3 align="center">Languages & Tools</h3>
 <p align="center">
   <picture>
-    <img src="https://skillicons.dev/icons?i=python,django,flask,dart,flutter,java,sqlite,mongodb,html,js,bootstrap&theme=dark" width='250'/>
+    <img src="https://skillicons.dev/icons?i=python,django,flask,dart,flutter,java,sqlite,mongodb,html,js,bootstrap&theme=dark" width='300'/>
   </picture>
 </p>
