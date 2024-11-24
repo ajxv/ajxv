@@ -1,16 +1,21 @@
 <div>
+
   <p align="center">
     <a href="https://github.com/ajxv">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajxv&layout=compact&theme=holi&border_color=4A628A" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajxv&layout=compact&theme=holi&border_color=4A628A"/>
     </a>
   </p>
 
   <p align="center">
     <a href="https://github.com/ajxv">
-      <img src="https://github-readme-stats.vercel.app/api?username=ajxv&show_icons=true&theme=holi&show=prs_merged&hide=contribs&hide_title=true&border_color=4A628A" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ajxv&show_icons=true&theme=holi&show=prs_merged&hide=contribs&hide_title=true&border_color=4A628A"/>
     </a>
   </p>
 
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/95841bec-68db-4167-8f9d-bd567e0825bd" width='400'/>
+  </p>
+  
   <h3 align="center">Languages & Tools</h3>
   <p align="center">
     <picture>
