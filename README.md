@@ -13,7 +13,9 @@
   </p>
 
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/95841bec-68db-4167-8f9d-bd567e0825bd" width='400'/>
+    <a href="https://github.com/ajxv">
+      <img src="https://github.com/user-attachments/assets/95841bec-68db-4167-8f9d-bd567e0825bd" width='400'/>
+    </a>
   </p>
   
   <h3 align="center">Languages & Tools</h3>
