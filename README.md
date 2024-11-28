@@ -8,7 +8,7 @@
 
   <p align="center">
     <a href="https://github.com/ajxv">
-      <img src="https://github-readme-stats.vercel.app/api?username=ajxv&show_icons=true&theme=holi&show=prs_merged&hide=contribs&hide_title=true&border_color=4A628A"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=ajxv&show_icons=true&count_private=true&theme=holi&show=prs_merged&hide=contribs&hide_title=true&border_color=4A628A"/>
     </a>
   </p>
 
