@@ -21,7 +21,7 @@
   <h3 align="center">Languages & Tools</h3>
   <p align="center">
     <picture>
-      <img src="https://skillicons.dev/icons?i=python,django,flask,dart,flutter,java,sqlite,mongodb,html,js,bootstrap,redis,js&theme=dark" width='400'/>
+      <img src="https://skillicons.dev/icons?i=python,django,flask,dart,flutter,java,sqlite,mongodb,html,js,bootstrap,redis,ts&theme=dark" width='400'/>
     </picture>
   </p>
 </div>
